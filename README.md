@@ -67,5 +67,5 @@ pip install pandas nltk sumy scikit-learn transformers torch sentencepiece rouge
 
 ## Author
 
-**Abdulhakim Elsayed (عمو كيمو)**
+**Abdulhakim Elsayed**
 *Flutter Developer & Computer Engineer*
